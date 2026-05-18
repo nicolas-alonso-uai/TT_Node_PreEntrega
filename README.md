@@ -1,15 +1,15 @@
 # Talento Tech - Pre entrega NodeJS
 [![Lenguajes](https://skillicons.dev/icons?i=js,nodejs)](https://skillicons.dev)
-### *Recursos utilizados*
-API FakeStore: https://fakestoreapi.com
+## *Recursos utilizados*
+FakeStoreAPI: https://fakestoreapi.com
 
-### *Funcionalidades requeridas*    
+## *Funcionalidades requeridas*    
 - Obtener todos los productos
 - Obtener producto específico por ID
 - Crear un nuevo producto
 - Eliminar un producto por ID
 
-### *¿Como utilizar la aplicación?*
+## *¿Como utilizar la aplicación?*
 **1. Obtener todos los productos**
 
     npm start GET products
